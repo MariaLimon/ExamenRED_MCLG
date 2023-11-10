@@ -4,9 +4,10 @@ using ExamenRED_MCLG_ED.Clases;
 
 
 Ejercicios eje = new Ejercicios();
+
 //eje.TablaVendedores();
 
-eje.Matriz();
+//eje.Matriz();
 
 /*
 Console.WriteLine("dame tu CURP");

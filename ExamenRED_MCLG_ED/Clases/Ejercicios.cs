@@ -134,7 +134,7 @@ namespace ExamenRED_MCLG_ED.Clases
             }
             if(centinela != -1)
             {
-                Console.WriteLine($"el {objetivo} esta en la posicion {centinela+1}");
+                Console.WriteLine($"el {objetivo} esta en la posicion {centinela+1} de la matriz");
             }
             else
             {
