@@ -1,0 +1,15 @@
+C:\Users\CD16\Desktop\ExamenRED_MCLG_ED\ExamenRED_MCLG_ED\bin\Debug\net7.0\ExamenRED_MCLG_ED.exe
+C:\Users\CD16\Desktop\ExamenRED_MCLG_ED\ExamenRED_MCLG_ED\bin\Debug\net7.0\ExamenRED_MCLG_ED.deps.json
+C:\Users\CD16\Desktop\ExamenRED_MCLG_ED\ExamenRED_MCLG_ED\bin\Debug\net7.0\ExamenRED_MCLG_ED.runtimeconfig.json
+C:\Users\CD16\Desktop\ExamenRED_MCLG_ED\ExamenRED_MCLG_ED\bin\Debug\net7.0\ExamenRED_MCLG_ED.dll
+C:\Users\CD16\Desktop\ExamenRED_MCLG_ED\ExamenRED_MCLG_ED\bin\Debug\net7.0\ExamenRED_MCLG_ED.pdb
+C:\Users\CD16\Desktop\ExamenRED_MCLG_ED\ExamenRED_MCLG_ED\obj\Debug\net7.0\ExamenRED_MCLG_ED.csproj.AssemblyReference.cache
+C:\Users\CD16\Desktop\ExamenRED_MCLG_ED\ExamenRED_MCLG_ED\obj\Debug\net7.0\ExamenRED_MCLG_ED.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CD16\Desktop\ExamenRED_MCLG_ED\ExamenRED_MCLG_ED\obj\Debug\net7.0\ExamenRED_MCLG_ED.AssemblyInfoInputs.cache
+C:\Users\CD16\Desktop\ExamenRED_MCLG_ED\ExamenRED_MCLG_ED\obj\Debug\net7.0\ExamenRED_MCLG_ED.AssemblyInfo.cs
+C:\Users\CD16\Desktop\ExamenRED_MCLG_ED\ExamenRED_MCLG_ED\obj\Debug\net7.0\ExamenRED_MCLG_ED.csproj.CoreCompileInputs.cache
+C:\Users\CD16\Desktop\ExamenRED_MCLG_ED\ExamenRED_MCLG_ED\obj\Debug\net7.0\ExamenRED_MCLG_ED.dll
+C:\Users\CD16\Desktop\ExamenRED_MCLG_ED\ExamenRED_MCLG_ED\obj\Debug\net7.0\refint\ExamenRED_MCLG_ED.dll
+C:\Users\CD16\Desktop\ExamenRED_MCLG_ED\ExamenRED_MCLG_ED\obj\Debug\net7.0\ExamenRED_MCLG_ED.pdb
+C:\Users\CD16\Desktop\ExamenRED_MCLG_ED\ExamenRED_MCLG_ED\obj\Debug\net7.0\ExamenRED_MCLG_ED.genruntimeconfig.cache
+C:\Users\CD16\Desktop\ExamenRED_MCLG_ED\ExamenRED_MCLG_ED\obj\Debug\net7.0\ref\ExamenRED_MCLG_ED.dll
